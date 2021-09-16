@@ -1,0 +1,1 @@
+This is Bence's first Git project!
